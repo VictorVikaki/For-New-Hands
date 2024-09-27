@@ -5,29 +5,31 @@ This repository, For-New-Hands, is a collection of mock-up Python projects desig
 
 **Table of Contents**
 
-. About the Projects
+## **Table of Contents**
+. [**About the Projects**](#about-the-projects)
 
-. Project List
+. [**Project List**](#project-list)
 
-. Technologies Used
+. [**Technologies Used**](#technologies-used)
 
-. Installation
+. [**Installation**](#installation)
 
-. Usage
+. [**Usage**](#usage)
 
-. Contributing
+. [**Contributing**](#contributing)
 
-. License
+. [**License**](#license)
 
-. Contact
+. [**Contact**](#contact)
 
 
-**About the Projects**
+
+## **About the Projects**
 
 This repository showcases simple but practical Python projects to help new hands get comfortable with the language and GUI development using tkinter. The projects include essential concepts such as event handling, widgets, and user interaction in Python.
 
 
-**Project List**
+## **Project List**
 
 Here are the projects in this repository:
 
@@ -36,14 +38,14 @@ Here are the projects in this repository:
 3. Progress Bar (Third Commit): Another example of a tkinter progress bar implementation, showcasing different features or improvements.
 
 
-**Technologies Used**
+## **Technologies Used**
 
 Python 3.x
 
 tkinter: Used in all projects for building graphical user interfaces (GUIs).
 
 
-**Installation**
+## **Installation**
 
 Clone the repo:
 
@@ -65,7 +67,7 @@ Install the required dependencies:
         python -m tkinter
 
 
-**Usage**
+## **Usage**
 
 Each project can be run independently. Navigate to the relevant project directory and run the script to launch the tkinter GUI.
 
@@ -74,20 +76,33 @@ For example,
             python PROGRESSBAR 2.py #to run the third commit
 
 
-**Contributing**
+## **Contributing**
 
 If you're interested in contributing, feel free to fork the repository, make improvements or add new projects, and submit a pull request.
 
 
-**License**
+## **License**
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 
-**Contact**
+## **Contact**
 
 Victor Kang'ethe Kimani
 
 Email: vikakikimani@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/victor-kimani/
+
+    Just replace `your-username` in the clone command with your actual GitHub username. You can 
+    paste this text directly into your `README.md` file, and it should format correctly on GitHub. 
+    Let me know if you need any more help!
+
+
+
+
+
+
+
+
+
