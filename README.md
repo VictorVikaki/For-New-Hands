@@ -3,7 +3,6 @@
 This repository, For-New-Hands, is a collection of mock-up Python projects designed to help beginners explore Python programming. The projects focus on building hands-on skills using various libraries and frameworks, particularly with tkinter for creating graphical user interfaces (GUIs).
 
 
-**Table of Contents**
 
 ## **Table of Contents**
 . [**About the Projects**](#about-the-projects)
